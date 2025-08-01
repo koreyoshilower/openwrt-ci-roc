@@ -16,7 +16,7 @@ env:
   MADS: false
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  SSH_ACTIONS: false
+  SSH_ACTIONS: true
   FIRMWARE_TAG: IPQ60XX
   TZ: Asia/Shanghai
 
